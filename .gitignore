@@ -1,0 +1,3 @@
+sentiment_model.joblib
+vectorizer.joblib
+venv
