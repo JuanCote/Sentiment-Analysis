@@ -1,3 +1,4 @@
 sentiment_model.joblib
 vectorizer.joblib
 venv
+.DS_Store
